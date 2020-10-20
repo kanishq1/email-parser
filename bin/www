@@ -4,7 +4,7 @@
  */
 
 const app = require('../app');
-const debug = require('debug')('waves2020:server');
+const debug = require('debug')('spennyemailparser:server');
 const http = require('http');
 
 /**
